@@ -35,14 +35,14 @@ Built with a clean separation between frontend and backend, focusing on RESTful 
 ## 🛠 Tech Stack
 
 **Frontend**
-- React / Vite
+- React
 - TailwindCSS
-- Axios / Fetch API
+- Fetch API
 
 **Backend**
 - Node.js, Express.js
 - MongoDB + Mongoose
-- JWT (optional / extensible)
+- JWT
 
 ---
 
